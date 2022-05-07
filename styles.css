@@ -1,0 +1,31 @@
+body{
+
+  background-color: #FFEEEE;
+}
+
+h1{
+  font-family: Ubuntu;
+  font-weight: bolder;
+  text-align: center;
+  margin:0;
+  padding: 0;
+}
+
+.arrow{
+  position:relative;
+  left: 700px;
+  top: 20px;
+}
+
+.startup{
+  position: relative;
+  bottom: 150px;
+}
+
+.osh{
+  position:relative;
+   bottom: 10px;
+  width: 500px;
+  margin: 0;
+  left: 500px;
+}
